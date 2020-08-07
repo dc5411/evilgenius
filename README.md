@@ -22,7 +22,7 @@ Well, we told you. You shouldn't have trusted that keyboard.
 
 |#| Date | Conference | Link to Video | Link to Slides |
 |---|---|---|---|---|
-|1| AUG-2020 | DEF CON 28 Red Team Village | - | https://docs.google.com/presentation/d/1b8hNTUlTqgMa4lMLslGPOkgWij-A08Jr7AulLt9-zsw/edit?usp=sharing |
+|1| AUG-2020 | DEF CON 28 Red Team Village | https://youtu.be/Tc8gWwf3KAc | https://docs.google.com/presentation/d/1b8hNTUlTqgMa4lMLslGPOkgWij-A08Jr7AulLt9-zsw/edit?usp=sharing |
 
 ## Credits
 
